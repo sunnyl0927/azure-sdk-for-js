@@ -49,6 +49,7 @@ export default {
         ],
         "no-console": "off",
         "no-dupe-class-members": "off",
+        "no-duplicate-imports": "error",
         "no-invalid-this": "off",
         "no-empty": "error",
         "no-fallthrough": "error",
